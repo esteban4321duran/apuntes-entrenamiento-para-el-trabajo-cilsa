@@ -1,4 +1,4 @@
-mariano bauza y lorena 
+mariano bauza y lorena
 
 # quienes somos?
 
@@ -23,7 +23,7 @@ Acompañamiento para la búsqueda laboral. Este taller está pensado para que te
 
 ## contenido
 
-### fase 1 
+### fase 1
 
 - identificar mi perfil que se alinea con mi objetivo laboral.
 - construir y optimizar CV.
@@ -44,15 +44,15 @@ Estas experiencias inmersivas están atadas al compromiso de los participantes y
 ### fase 4
 
 - cierre
-- seguimos en contacto y nos damos una mano 
+- seguimos en contacto y nos damos una mano
 
 ## duración
 
-3 meses. Inicio de talleres 27 de agosto. fin de talleres 8 de octubre. Luego les damos 2meses de plazo 
+3 meses. Inicio de talleres 27 de agosto. fin de talleres 8 de octubre. Luego les damos 2meses de plazo
 
 ## modalidad
 
-sin tareas obligatorias. La participación es voluntaria con el acompañamiento de un orientador. Grupo generalista, no 
+sin tareas obligatorias. La participación es voluntaria con el acompañamiento de un orientador. Grupo generalista, no
 
 80% de asistencia para participar de experiencias inmersivas.
 
@@ -61,11 +61,3 @@ sin tareas obligatorias. La participación es voluntaria con el acompañamiento 
 - llenar formulario hasta el 25/08.
 - correo de bienvenida y link de acceso 26/08.
 - buscar en las redes sobre los cursos de cilsa para hacer un taller más orientado al área IT.
-
-
-
-
-
-
-
-
